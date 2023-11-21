@@ -1,5 +1,7 @@
 # twitch-chatbot
 
+![image](https://github.com/andaccc/twitch-chatbot/assets/8611553/87f5ac86-024b-4b88-b0b0-7e71fc784bfa)
+
 
 ## Setup
 1. ( Create twitch bot account ) and login to `https://dev.twitch.tv/`
