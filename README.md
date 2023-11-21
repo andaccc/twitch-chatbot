@@ -13,3 +13,6 @@
 
 ## Develop 
 Code chatbot with token: https://dev.twitch.tv/docs/irc/get-started/
+
+### for python (twitchio) https://github.com/PythonistaGuild/TwitchIO
+- `pip install -U twitchio`
